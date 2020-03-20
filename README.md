@@ -7,4 +7,5 @@ Send us your OCR wishes as [an issue ❕](https://github.com/OpenPecha/ocr-wishl
 - [ ] W1KG13126 - པེ་ཅིན་བསྟན་འགྱུར།
 - [ ] 
 
-
+## March 2020 batch OCR:
+[No DbuMed, no RestrictedinChina](https://docs.google.com/spreadsheets/d/1tpNnyLau3jG8OZF9yACIgURgMXOiZXu0Fm4HxNVRUo0/edit#gid=1481826077)
